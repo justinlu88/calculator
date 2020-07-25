@@ -1,6 +1,7 @@
 .App {
   text-align: center; 
   font-size: 10px;
+  color: green;
 }
 .drawBox {
   border:2px solid black ;
